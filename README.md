@@ -1,3 +1,3 @@
-# diallo-traoré-dawia-JS
+# traoré-JS
 
 Rendu des tp de javaScript de l2S4 

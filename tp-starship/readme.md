@@ -1,11 +1,8 @@
 ## Tp StarShip
 ## Groupe 1
-(groupe 6)
-## Members 
-* AissatouIbrahima DIALLO
+
+## author
 * Adama TRAORE
-* Mahamat Ahmat Ismail DAWIA
-* Rabbah SELLAH 
 
 ## Pour installer les fichiers nécessaires au projet
 * aller sur un  terminal se mettre dans le dossier `tp-starship` contenant le fichier de configuration `webpack.config.js`
